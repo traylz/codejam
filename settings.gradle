@@ -1,0 +1,4 @@
+rootProject.name = 'codjam2020'
+include 'jam2020'
+include 'jam2019'
+
